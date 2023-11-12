@@ -1,5 +1,10 @@
 ### Hi there 👋
 
+🔭 I’m currently working on ...
+
+- 🎮 [PopIdle](https://popidle.the-sound.co.uk)
+- 🏐 [Street Boules](https://street-boules.the-sound.co.uk)
+
 <!--
 **geejay81/geejay81** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
