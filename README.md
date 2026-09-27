@@ -5,7 +5,7 @@
 
 <p align="left"> <a href="https://twitter.com/gregparr" target="blank"><img src="https://img.shields.io/twitter/follow/gregparr?logo=twitter&style=for-the-badge" alt="gregparr" /></a> </p>
 
-- 🔭 I’m currently working on [PopIdle](popidle.the-sound.co.uk), [Street Boules](street-boules.the-sound.co.uk)
+- 🔭 I’m currently working on [PopIdle](popidle.the-sound.co.uk), [Street Boules](street-boules.the-sound.co.uk), [ScreenIdle](https://screenidle.app)
 
 - 🌱 I’m currently learning **Next.js, Remix, Puppeteer**
 
